@@ -1,12 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🤖 ERP AI Chatbot
+An intelligent, responsive chatbot seamlessly integrated into an ERP system to automate support and enhance user interaction — built using React.js, CSS, and powered by the Gemini AI API.
 
-Currently, two official plugins are available:
+📌 Features
+💬 AI-Powered Conversations: Natural language understanding and intelligent responses using Gemini AI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧠 Context-Aware: Understands user queries in context for better support.
 
-## Expanding the ESLint configuration
+📱 Responsive Design: Optimized for all devices with clean, adaptive UI.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ Non-Intrusive UX: Popup button trigger lets users chat without disrupting workflow.
+
+🤝 Team Collaboration: Built in a startup environment with cross-functional coordination.
+
+🛠 Tech Stack
+Frontend: React.js, CSS
+
+AI Integration: Gemini AI API
+
+Deployment: GitHub Pages / Vercel (Optional)
